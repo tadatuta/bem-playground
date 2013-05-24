@@ -1,0 +1,12 @@
+{
+  "name": "bem-playground",
+  "description": "Online bemhtml compiler demo",
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": ">= 3.0.3",
+    "bem": ">= 0.5.31",
+    "bemc": "*"
+  },
+  "engine": "node 0.6.11"
+}

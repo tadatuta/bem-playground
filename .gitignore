@@ -1,0 +1,8 @@
+.DS_Store
+bem-bl
+bem-controls
+node_modules
+.bem/cache
+desktop.bundles/*/*.*
+!desktop.bundles/*/*.bemjson.js
+!desktop.bundles/.bem/level.js
