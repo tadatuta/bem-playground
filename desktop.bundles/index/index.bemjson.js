@@ -76,7 +76,7 @@
             ]
         },
         { block: 'i-jquery', mods: { version: '1.8.3' } },
-        { elem: 'js', url: '//rawgithub.com/ajaxorg/ace-builds/master/src-noconflict/ace.js' },
+        { elem: 'js', url: '//raw.github.com/ajaxorg/ace-builds/master/src-noconflict/ace.js' },
         { elem: 'js', url: '_index.js' }
     ]
 })
